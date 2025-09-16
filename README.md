@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naveengokull
-- 👀 I’m interested in AIML and Networking and Cybersecurity
+- 👀 I’m interested in Cloud,AI and Data science 
 - 🌱 I’m currently learning Computer Science At KPRIET
 - 💞️ I’m looking to collaborate on networking
 - 📫 How to reach me me.naveengokul@gmail.com or at LinkedIn-Naveen Gokul S
